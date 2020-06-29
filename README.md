@@ -1,6 +1,7 @@
 # Multiplayer-Snake-N-Ladder
 I made this game with Pygame to get an idea of how socket works.
-This is not the final game, it is just a beta version.
+This is not the final game, it is just a beta version and
+you can freely commit or contribute changes in this code
 
 
 
